@@ -6,6 +6,8 @@ This repository contains an interactive Tableau dashboard analyzing retail sales
 View the live dashboard on Tableau Public:
 https://public.tableau.com/app/profile/sophia.amsden/viz/Superstore_17617992428400/Superstore
 
+A detailed written analysis of the dashboard is available in `Superstore_Dashboard_Analysis.md`.
+
 # Objective
 
 The goal of this project is to help business users quickly understand:
@@ -32,7 +34,9 @@ These visual components support real business questions such as identifying top-
 
 ## Key Insights
 - A small number of product sub-categories contribute disproportionately to total profit.
+  
 - Some regions generate high sales volume but lower profit margins.
+  
 - Profitability varies significantly across product categories, highlighting areas for potential improvement.
 
 # Tools & Data
