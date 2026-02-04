@@ -1,0 +1,44 @@
+---
+title: "Superstore_Dashboard_Analysis"
+author: "Sophia Amsden"
+date: "2026-02-04"
+output: html_document
+---
+
+# Superstore Dashboard Analysis
+
+**Author:** Sophia Amsden\
+**Project:** Superstore Tableau Dashboard\
+**Tool:** Tableau Public
+
+## Dashboard Link
+
+<https://public.tableau.com/views/Superstore_17617992428400/Superstore>
+
+## Dataset Overview
+
+This dashboard uses a Superstore dataset sourced from Kaggle, containing retail sales data across U.S. regions from 2014 to 2017. The dataset includes variables such as order date, sales, profit, quantity, product category, and state-level location data.
+
+The purpose of this analysis was to examine sales trends over time, identify high-performing regions, and understand how product categories contribute to overall sales performance.
+
+## Regional Sales by Category
+
+The stacked bar chart displays total sales by region, broken down by product category: Furniture, Office Supplies, and Technology. This visualization allows for quick comparison of both regional performance and category contribution.
+
+The West and East regions generate the highest total sales, with Technology consistently contributing a large share across all regions. This suggests that Technology products are a major revenue driver nationwide.
+
+## Sales Trends Over Time
+
+The line chart shows quantity sold from 2014 through 2017 by product category. Overall sales increase steadily each year, with Office Supplies experiencing the strongest growth over time.
+
+Furniture and Technology also show upward trends, but at a slower rate. This pattern indicates consistent company growth, with certain categories expanding faster than others due to demand or pricing factors.
+
+## Geographic Distribution of Sales
+
+The map visualization displays total sales by state, where circle size represents total sales volume and color indicates quantity sold. States such as California, Texas, and New York stand out as top-performing markets.
+
+A background layer showing 2018 per capita income by state was added to provide additional context. Higher-income states generally align with stronger sales performance, suggesting a relationship between income levels and purchasing behavior.
+
+## Summary
+
+This dashboard combines time-based, categorical, and geographic views to provide a comprehensive picture of Superstore sales performance. The interactive design allows users to quickly identify trends, compare regions, and understand which product categories drive revenue.
