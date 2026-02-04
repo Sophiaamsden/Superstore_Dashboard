@@ -6,7 +6,7 @@ This repository contains an interactive Tableau dashboard analyzing retail sales
 View the live dashboard on Tableau Public:
 https://public.tableau.com/app/profile/sophia.amsden/viz/Superstore_17617992428400/Superstore
 
-A detailed written analysis of the dashboard is available in `Superstore_Dashboard_Analysis.md`.
+A detailed written analysis of the dashboard is available in `Superstore_Dashboard_Analysis.Rmd`.
 
 # Objective
 
