@@ -32,8 +32,5 @@ These visual components support real business questions such as identifying top-
 
 # Tools & Data
 Tableau Public — dashboard authoring and sharing
-Superstore Dataset — publicly available retail sales dataset commonly used in business intelligence practice
-
-Tableau Public — dashboard authoring and sharing
 
 Superstore Dataset — publicly available retail sales dataset commonly used in business intelligence practice
